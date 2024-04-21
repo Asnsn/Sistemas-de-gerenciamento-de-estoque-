@@ -5,12 +5,6 @@ Prática profissional: Ferramentas e Técnicas de Programação
 
 sistema de gerenciamento de estoque
 
-RA. 202352332 – Arthur Silveira Nunes
-
-Professor: Fabio Andrijauskas
-
-Cambui
-
 IDE ultilizada: codeblocks
 
 Descrição Completa do Sistema de Gerenciamento de Estoque
